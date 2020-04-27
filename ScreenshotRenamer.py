@@ -1,0 +1,2 @@
+import os, fnmatch
+[[os.rename(a + '/' + file, a + '/res.png') for file in os.listdir(a) if fnmatch.fnmatch(file, 'snap_screen*')] for a in [z for z in ['./' + y for y in [x[:-1] if x[-1] == '\n' else x for x in open('dirs.txt', 'r',encoding='utf-8').readlines()]] if os.path.exists(z)]]
