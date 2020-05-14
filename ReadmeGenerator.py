@@ -18,4 +18,4 @@ temp = [x[:-1] if x[-1] == '\n' else x for x in open('dirs.txt', 'r', encoding='
 readme.write(pat)
 
 for x in temp:
-	readme.write(f'[{x}]({url}{urllib.parse.quote(x)})\n')
+	readme.write(f'[{x}]({url}{urllib.parse.quote(x)})\n\n')
