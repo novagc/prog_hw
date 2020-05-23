@@ -53,3 +53,7 @@
 
 [23. Задача №3557. Бинарное дерево (вставка, поиск, удаление)](https://github.com/novagc/prog_hw/tree/master/23.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%E2%84%963557.%20%D0%91%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%20%28%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%2C%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%2C%20%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%29)
 
+[24. Задача №764. Сбалансированность](https://github.com/novagc/prog_hw/tree/master/24.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%E2%84%96764.%20%D0%A1%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+
+[25. Задача №111240. Переворот](https://github.com/novagc/prog_hw/tree/master/25.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%E2%84%96111240.%20%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D1%80%D0%BE%D1%82)
+
