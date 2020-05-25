@@ -174,7 +174,7 @@ struct BinTree
         return DeleteNode(FindNode(value));
     }
 
-    Node<T>* DeleteNode(Node<T>* node) //Взято из интернетов
+    Node<T>* DeleteNode(Node<T>* node)
     {
         Node<T>* res;
         Node<T>* temp;
