@@ -18,4 +18,7 @@ temp = [x[:-1] if x[-1] == '\n' else x for x in open('dirs.txt', 'r', encoding='
 readme.write(pat)
 
 for x in temp:
+	if x[0] == '!':
+		x = x[1:]
+	
 	readme.write(f'[{x}]({url}{urllib.parse.quote(x)})\n\n')
